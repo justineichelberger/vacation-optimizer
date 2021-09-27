@@ -1,0 +1,5 @@
+,City,Lat.,Lon.,Max. Temp.,Humidity,Cloudiness,Windspeed,Country,Date
+0,Albany,42.6001,-73.9662,275.93,84,100,1.09,US,1618550793
+1,Puerto Baquerizo Moreno,-0.9,-89.6,297.82,87,67,1.5,EC,1618550723
+2,Hobart,-42.8794,147.3294,288.15,41,20,8.23,AU,1618550517
+3,Waipawa,-41.4122,175.5153,291.15,72,75,9.77,NZ,1618550587
