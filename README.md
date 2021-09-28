@@ -7,9 +7,9 @@
   * [matplotlib](https://matplotlib.org/)
   * [requests](https://docs.python-requests.org/en/latest/)  
   * [pandas](https://pandas.pydata.org/)
-  * [citipy](https://pypi.org/project/citipy/)
   * [numpy](https://numpy.org/)
   * [gmaps](https://pypi.org/project/gmaps/)
+  * [citipy](https://pypi.org/project/citipy/)
   * [scipy](https://www.scipy.org/) 
 * API keys should be saved within the `api_keys.py` file in each application directory and should not be displayed publicly
 
