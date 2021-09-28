@@ -26,3 +26,5 @@ or
 Then the VacationPy application then selects locations with ideal weather conditions and finds hotels within close proximity to locations matching your ideal weather conditions using the gmaps API and displays the resulting information in a popup for each location marker e.g.
 
 <img width="969" alt="Screen Shot 2021-09-27 at 10 21 36 PM" src="https://user-images.githubusercontent.com/79673051/135022793-54d2bed8-e7e1-4b82-92ed-d5b69bcc4530.png">
+
+How else can one satisfy one's extraordinarily narrow comfort range?
