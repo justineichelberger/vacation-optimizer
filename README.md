@@ -10,7 +10,7 @@
   * [numpy](https://numpy.org/)
   * [gmaps](https://pypi.org/project/gmaps/)
   * [scipy](https://www.scipy.org/) 
-* API keys should be saved within the `<api_keys.py>` file and should not be displayed publicly
+* API keys should be saved within the `api_keys.py` file and should not be displayed publicly
 
 The WeatherPy application plots various weather features as functions of latitude e.g.
 
