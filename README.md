@@ -1,7 +1,7 @@
 # Vacation Optimizer
 ## A Python Application for Data-Driven Vacation Destination Selection
 * To obtain API access from openweathermap.org visit: https://openweathermap.org/appid
-* The application is set within a Jupyter notebook (https://jupyter.org/)
+* The application is set within a [Jupyter notebook](https://jupyter.org/)
 * This application depends on the use of the following external Python libraries:
   1. [requests](https://docs.python-requests.org/en/latest/) 
   2. [matplotlib](https://matplotlib.org/) 
