@@ -1,6 +1,7 @@
 # Vacation Optimizer
 ## A Python Application for Data-Driven Vacation Destination Selection
 * To obtain API access from openweathermap.org visit: https://openweathermap.org/appid
+* gmaps API access can be found here: https://developers.google.com/maps/documentation/geocoding/get-api-key
 * The application is set within a [Jupyter notebook](https://jupyter.org/)
 * This application depends on the use of the following external Python libraries:
   * [requests](https://docs.python-requests.org/en/latest/) 
