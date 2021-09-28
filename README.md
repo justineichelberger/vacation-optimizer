@@ -4,11 +4,12 @@
 * gmaps API access can be found here: https://developers.google.com/maps/documentation/geocoding/get-api-key
 * The application is set within a [Jupyter notebook](https://jupyter.org/)
 * This application depends on the use of the following external Python libraries:
-  * [requests](https://docs.python-requests.org/en/latest/) 
-  * [matplotlib](https://matplotlib.org/) 
+  * [matplotlib](https://matplotlib.org/)
+  * [requests](https://docs.python-requests.org/en/latest/)  
   * [pandas](https://pandas.pydata.org/)
   * [scipy](https://www.scipy.org/) 
   * [numpy](https://numpy.org/)
+  * [gmaps](https://pypi.org/project/gmaps/)
 
 The WeatherPy application plots various weather features as functions of latitude e.g.
 
