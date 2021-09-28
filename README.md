@@ -7,7 +7,7 @@
   * [matplotlib](https://matplotlib.org/)
   * [requests](https://docs.python-requests.org/en/latest/)  
   * [pandas](https://pandas.pydata.org/)
-  * [ciipy](https://pypi.org/project/citipy/)
+  * [citipy](https://pypi.org/project/citipy/)
   * [numpy](https://numpy.org/)
   * [gmaps](https://pypi.org/project/gmaps/)
   * [scipy](https://www.scipy.org/) 
