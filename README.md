@@ -3,6 +3,7 @@
 * The application is set within a [Jupyter](https://jupyter.org/) notebook
 * openweathermap.org API access can be obtained [here](https://openweathermap.org/appid)
 * gmaps API access/use documentation can be found [here](https://developers.google.com/maps/documentation/geocoding/get-api-key)
+* API keys should be saved within the "api_keys.py" and should not be displayed publicly
 * This application depends on the use of the following external Python libraries:
   * [matplotlib](https://matplotlib.org/)
   * [requests](https://docs.python-requests.org/en/latest/)  
