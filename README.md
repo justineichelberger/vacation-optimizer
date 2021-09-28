@@ -27,6 +27,6 @@ Then the VacationPy application selects locations with ideal weather conditions 
 
 <img width="969" alt="Screen Shot 2021-09-27 at 10 21 36 PM" src="https://user-images.githubusercontent.com/79673051/135022793-54d2bed8-e7e1-4b82-92ed-d5b69bcc4530.png">
 
-Preferred weather conditions can be edited by changing the values in each of the conditional statements within the "[] fitting weather criteria" cell of the VacationPy notebook.
+Preferred weather conditions can be edited by changing the values in each of the conditional statements within the "...fitting weather criteria" cell of the VacationPy notebook.
 
 How else can one satisfy one's extraordinarily narrow comfort range?
