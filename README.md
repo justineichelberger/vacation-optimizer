@@ -7,9 +7,9 @@
   * [matplotlib](https://matplotlib.org/)
   * [requests](https://docs.python-requests.org/en/latest/)  
   * [pandas](https://pandas.pydata.org/)
-  * [scipy](https://www.scipy.org/) 
   * [numpy](https://numpy.org/)
   * [gmaps](https://pypi.org/project/gmaps/)
+  * [scipy](https://www.scipy.org/) 
 
 The WeatherPy application plots various weather features as functions of latitude e.g.
 
