@@ -2,7 +2,7 @@
 ## A Python Application for Data-Driven Vacation Destination Selection
 * openweathermap.org API access can be found [here](https://openweathermap.org/appid)
 * gmaps API access can be found [here](https://developers.google.com/maps/documentation/geocoding/get-api-key)
-* The application is set within a [Jupyter notebook](https://jupyter.org/)
+* The application is set within a [Jupyter](https://jupyter.org/) notebook
 * This application depends on the use of the following external Python libraries:
   * [matplotlib](https://matplotlib.org/)
   * [requests](https://docs.python-requests.org/en/latest/)  
