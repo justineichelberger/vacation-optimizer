@@ -11,7 +11,7 @@
   * [gmaps](https://pypi.org/project/gmaps/)
   * [citipy](https://pypi.org/project/citipy/)
   * [scipy](https://www.scipy.org/) 
-* API keys should be saved within the `api_keys.py` file in each application directory and should not be displayed publicly
+* API keys should be saved within the `api_keys.py` file in each application directory and should not be made public
 
 The WeatherPy application plots various weather features as functions of latitude e.g.
 
